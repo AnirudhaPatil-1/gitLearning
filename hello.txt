@@ -1,1 +1,6 @@
 git is a dvs.
+
+in .git folder
+- versions of the files are saves
+- who and what changes were made
+- git local repo
