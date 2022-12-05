@@ -1,4 +1,5 @@
 random string abcdefghij
 
-making changes first  then staging
+making changes first  then staging.
 
+simultaneously changing the file while it is staged.
