@@ -5,3 +5,6 @@ making changes first  then staging.
 simultaneously changing the file while it is staged.
 
 facing problem with ssh
+
+
+checking the push whether working or not 
