@@ -3,7 +3,10 @@
 //git remote add origin "the github repository http address"
 //git add . => track files
 //git status
-//git branch
-// git push origin  master
 //git log
-//git push --set-upstream origin master
+//git checkout -b "branch name " -> -b is for branch creation and checkout is for switching to the branch
+//git branch "new branch name"
+//git checkout "branch name  (want to switch to )"
+//git push --set-upstream origin "newly created branch name" => only needs to be done once after branch creation
+//-> creates branch for github and pushes the code
+// git push origin  master
