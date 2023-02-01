@@ -4,6 +4,6 @@
 //git add . => track files
 //git status
 //git branch
-// git pus]]h origin  master
+// git push origin  master
 //git log
-
+//git push --set-upstream origin master
