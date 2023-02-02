@@ -14,3 +14,7 @@
 //branch DELETION: 
 //git branch -d "branch_name" ( locally)
 //git push  origin --delete "branch_name" -> to update the github of the deleted branch
+//STASH
+//git stash -> only temporarily stores tracked changes(git add .)
+//git stash -u -> stores  both tracked and untracked changes
+//git stash pop -> unstores the changes onto files
