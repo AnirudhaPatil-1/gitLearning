@@ -10,3 +10,7 @@
 //git push --set-upstream origin "newly created branch name" => only needs to be done once after branch creation
 //-> creates branch for github and pushes the code
 // git push origin  master
+//git merge "name of branch to me merged in present branch"
+//branch DELETION: 
+//git branch -d "branch_name" (]] locally)
+//git push  origin --delete "branch_name" -> to update the github of the deleted branch
