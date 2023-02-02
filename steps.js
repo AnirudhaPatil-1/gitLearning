@@ -12,5 +12,5 @@
 // git push origin  master
 //git merge "name of branch to me merged in present branch"
 //branch DELETION: 
-//git branch -d "branch_name" (]] locally)
+//git branch -d "branch_name" ( locally)
 //git push  origin --delete "branch_name" -> to update the github of the deleted branch
