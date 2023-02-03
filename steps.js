@@ -14,3 +14,5 @@
 //branch DELETION: 
 //git branch -d "branch_name" ( locally)
 //git push  origin --delete "branch_name" -> to update the github of the deleted branch
+
+// MOST USED GIT COMMANDS COMPLETED
